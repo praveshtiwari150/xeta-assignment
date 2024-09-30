@@ -1,0 +1,31 @@
+<svg width="27" height="26" viewBox="0 0 27 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_b_1_28)">
+<path d="M1.93347 20.2725C1.93347 23.0442 4.05304 25.1638 6.82479 25.1638H19.8683C22.6401 25.1638 24.7596 23.0442 24.7596 20.2725H1.93347Z" fill="#3D73AF"/>
+</g>
+<g filter="url(#filter1_b_1_28)">
+<path d="M24.7602 17.0116H1.93403C0.955765 17.0116 0.303589 16.3595 0.303589 15.3812C0.303589 14.4029 0.955765 13.7508 1.93403 13.7508H24.7602C25.7385 13.7508 26.3906 14.4029 26.3906 15.3812C26.3906 16.3595 25.7385 17.0116 24.7602 17.0116Z" fill="#3D73AF"/>
+</g>
+<g filter="url(#filter2_b_1_28)">
+<path d="M1.93347 10.4893C1.93347 5.10925 6.33566 0.707062 11.7157 0.707062H14.9769C20.3569 0.707062 24.7591 5.10925 24.7591 10.4893H1.93347Z" fill="#3D73AF"/>
+</g>
+<defs>
+<filter id="filter0_b_1_28" x="-8.06653" y="10.2725" width="42.8262" height="24.8913" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="5"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_1_28"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_1_28" result="shape"/>
+</filter>
+<filter id="filter1_b_1_28" x="-9.69641" y="3.75076" width="46.087" height="23.2609" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="5"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_1_28"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_1_28" result="shape"/>
+</filter>
+<filter id="filter2_b_1_28" x="-8.06653" y="-9.29294" width="42.8256" height="29.7823" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="5"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_1_28"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_1_28" result="shape"/>
+</filter>
+</defs>
+</svg>
